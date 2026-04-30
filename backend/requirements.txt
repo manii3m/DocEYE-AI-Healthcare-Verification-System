@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+torchxrayvision
+google-generativeai
+pytesseract
+opencv-python
+Pillow
+numpy
+python-dotenv
+pydantic
