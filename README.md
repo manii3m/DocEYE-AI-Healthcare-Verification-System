@@ -1,5 +1,9 @@
 # 🏥 DocEYE AI
 
+<img width="1763" height="1721" alt="image" src="https://github.com/user-attachments/assets/16647f21-dfd1-4e3d-8fd7-f4f6671179e4" />
+
+
+
 <p align="center">
   <a href="https://github.com/doceye-ai/doceye-ai/stargazers"><img src="https://img.shields.io/github/stars/doceye-ai/doceye-ai?style=flat&color=00d4ff" alt="GitHub Stars"></a>
   <a href="https://github.com/doceye-ai/doceye-ai/blob/main/LICENSE"><img src="https://img.shields.io/github/license/doceye-ai/doceye-ai?style=flat&color=7c3aed" alt="License"></a>
